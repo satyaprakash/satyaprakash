@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @satyaprakash
+- 👋 Hi, I’m @SatyaPrakash
 - 👀 I’m interested in becoming a good to better developer.
 - 🌱 I’m currently learning data structures and algorithm along with Python programming language.
 - 💞️ I’m looking to collaborate on programming discussion and way to improve it.
